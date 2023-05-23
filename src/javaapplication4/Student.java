@@ -1,6 +1,7 @@
 package javaapplication4;
 public class Student {
     //added first comment
+    //added comment for fetchmerge
     private String studentId;
     private String studentName;
 
